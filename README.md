@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ignatious03
-- 👀 I’m interested in challenging projects, which keep me interested
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any interesting projects on Java or Python
+- 👀 I’m looking for peace of mind
+- 🌱 I’m currently working as a software developer for an MNC
+- 💞️ I’m looking for nothing
 - 📫 How to reach me ignatousmj@gmail.com
 
 <!---
